@@ -15,4 +15,4 @@ Feature: Login feature of Demo Blaze application
     And user clicks on login link
     And user enter user name as 'bharathedu1' and password as 'welcme1'
     And user clicks on Login button
-    Then error popup should be displayed
+    Then error popup should be displayed ******
